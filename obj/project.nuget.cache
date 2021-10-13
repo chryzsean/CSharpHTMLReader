@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOILbsu0CdnFTCzbXa9h/ZvHgy3qscgLMIjskB99WmQIo0f5TcyZlHrTVISrDKVj2VinMhPZxS+4tMai+pKREA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bry\\source\\repos\\CSharpHTMLReader\\CSharpHTMLReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bry\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}
